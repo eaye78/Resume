@@ -1,18 +1,15 @@
 # Resume
 Resume
 
-Name: 			Leo Liu
-Gender: 		Male
-Age：      		46       
+Name: 		Leo Liu
+Gender: 	Male
+Age：      	46       
 Mobile Phone:	86-15640096976
-Email:			280041640@qq.com
-
+Email:		280041640@qq.com
 
 Occupational Positions: Software Product Architect, Product Manager, Project Manager
 
-
 Self-assessment
-
 1.	Over 20 years of experience in designing and developing B/S application systems, familiar with the technology and products within the field.
 2.	Strong object-oriented analysis skills, familiar with building and applying microservices architecture in Spring-Cloud technology stack. Proficient in using appropriate design patterns to architect software systems at different levels and applying mature best practices in design and development.
 3.	Abstract system architecture requirements through personal experience, developing organizational structures and communication mechanisms for key software components.
@@ -25,66 +22,7 @@ Self-assessment
 10.	Experienced in multiple software product cycles, proficient in the theoretical specifications of software engineering RUP and object-oriented analysis/design (OOA/OOD) principles, and applying MDA to practical projects.
 11.	Strong problem-solving skills, quick understanding of new technologies, and strong time management abilities.
 
-Education Background
-
-Shenyang Artillery College  						                           1997- 2001
-
-(Bachelor's Degree) Major: Computer Science and Technology
-
-Work Experience
-
-Shenyang Mingshi Information Technology Co., Ltd. (2013-Present)
-
-Position: Microservices System Architect, VR Product Development Engineer
-Responsibilities:
-•	Responsible for the development of company project frameworks.
-•	Management of SpringCloud technology framework.
-•	Development and management of MDA tools based on microservices architecture.
-•	Development and management of VR platform framework based on Unity3D.
-•	Optimization and refactoring of Ruoyi microservice development framework.
-•	Optimization and development of webGIS plugin CesiumJS framework based on VUE3.
-•	Spatial data collection and conversion based on GeoServer and GeoTools.
-•	Planning and management of data assets, data aggregation, and microservice framework development related to data middle platform system.
-
-Beijing Yuxin Yicheng Network Technology Co., Ltd. (2010-2013)
-
-Position: Internet Product Development Manager
-Responsibilities:
-•	Responsible for the development of company internet products.
-•	Management of Java technology framework.
-•	Development and management of MDA tools.
-•	Development and management of object-oriented development framework based on PHP.
-•	Optimization and refactoring of StatusNet and Thinkphp development frameworks.
-•	Planning and management of WEB application service architecture for online internet products.
-
-Beijing Gaomai Zhiyuan Information Technology Co., Ltd. (2004-2010)
-
-Position: Senior Software Architecture Engineer, Project Manager
-Responsibilities:
-•	Responsible for technical expansion and product development of company software technology system.
-•	Development of model-driven tools based on Eclipse's OSGI framework.
-•	Development of web front-end framework based on PHP technology.
-•	Planning and management of company's internal business system software development framework.
-•	Architecting IT solutions for client business requirements.
-•	Compilation of interface specifications and technical documents.
-•	Organizing product performance testing and tuning.
-•	Organizing software architecture and generating business code.
-•	Organizing development team for system development and managing project progress.
-•	Communication and coordination with clients to solve difficulties and problems encountered in projects.
-
-Beijing Huidong Mingzhi Technology Development Co., Ltd. (2002-2004)
-
-Position: DB2 DBA, Java Development Engineer
-Responsibilities:
-•	Engaged in the development and maintenance of import and export industry business systems.
-Shenyang Huicheng Jiaye Technology Development Co., Ltd. (2001-2002)
-Position: Website Development Engineer, Data Storage Engineer
-Responsibilities:
-•	Engaged in website development.
-•	Engaged in CRM product development.
-
-
-				Project Experience
+Project Experience
 
 Product Name: CIM 3D Data Visualization Platform
 Product Description: The platform supports the integration of three-dimensional urban spatial models and urban information, providing comprehensive multidimensional spatiotemporal model support for the construction of digital twin cities. Based on a visualization-based intelligent data platform, it constructs a unified digital foundation for urban operation and management. It integrates multi-domain information systems and data resources to deepen government services and city operation management, supporting the efficient operation and rapid intelligent response to urban health and emergencies. It adapts to various mainstream smart transportation platforms and autonomous driving platform data standards, aggregating and modeling raw transportation data from multiple platforms, and providing specialized and thematic data layers and other business support capabilities. It provides data security for enhancing the intelligence of urban transportation operations. Meanwhile, in terms of enhancing the value of transportation data, it provides high-quality transportation data services for other functional departments by governing, confirming, and reorganizing aggregated data. It promotes the empowerment of urban safety development and operation with real-time transportation data in digital cities, gradually improving the management of transportation data assets and the construction of transportation data circulation systems.
