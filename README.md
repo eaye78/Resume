@@ -1,10 +1,10 @@
 # Resume
 
-Name: 		Leo Liu
-Gender: 	Male
-Age：      	46       
-Mobile Phone:	86-15640096976
-Email:		280041640@qq.com
+Name: 		Leo Liu  
+Gender: 	Male  
+Age：      	46           
+Mobile Phone:	86-15640096976  
+Email:		280041640@qq.com  
 
 Occupational Positions: Software Product Architect, Product Manager, Project Manager
 
