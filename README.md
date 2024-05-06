@@ -1,5 +1,4 @@
 # Resume
-Resume
 
 Name: 		Leo Liu
 Gender: 	Male
